@@ -19,7 +19,7 @@ A London pest control browser theme for Mozilla Firefox.
 ## Homepage / More Info
 
 Visit the official Pied Piper Pest Control website for more info and updates:  
-[https://www.thepiedpiper.co.uk](https://thepiedpiper.co.uk/pest-control-central-london/)
+[https://www.thepiedpiper.co.uk/pest-control-central-london/](https://thepiedpiper.co.uk/pest-control-central-london/)
 
 ---
 
