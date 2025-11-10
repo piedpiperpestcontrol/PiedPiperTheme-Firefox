@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Pied Piper Pest Control Theme",
+  "version": "1.0",
+  "description": "A London pest control themed Firefox browser skin.",
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [34, 40, 89],
+      "tab_background_text": [217, 56, 49]
+    }
+  },
+  "homepage_url": "https://www.thepiedpiper.co.uk",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "piedpiper@example.com"
+    }
+  }
+}
